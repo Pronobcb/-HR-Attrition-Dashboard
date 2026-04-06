@@ -19,7 +19,7 @@ This project presents an interactive HR Attrition Dashboard that analyzes employ
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](./dashboard.png)
+Dashboard <a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main/Dashboard%20-%20HR%20Attrition%20Analysis.png">Dashboard View </a>
 
 ---
 
@@ -37,8 +37,8 @@ This project presents an interactive HR Attrition Dashboard that analyzes employ
 - Data Cleaning  
 - Data Visualization  
 ---
-## 📂 Dataset
-The dataset includes:
+## 📂 Dataset used
+<a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main/HR%20Attrition%20Dashboard.xlsx">Dataset View </a>
 - Age  
 - Gender  
 - Education  
