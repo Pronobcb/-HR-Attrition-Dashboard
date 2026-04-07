@@ -50,7 +50,7 @@ Dashboard <a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main
 - Attrition Status  
 ---
 ## 📂 Report
-< a href="https://github.com/Pronobcb/HR-Attrition-Dashboard-Excel/blob/main/HR_Attrition_Report.pdf"Report View </a>
+<a href="https://github.com/Pronobcb/HR-Attrition-Dashboard-Excel/blob/main/HR_Attrition_Report.pdf"Report View </a>
 ---
 ## 🚀 How to Use
 1. Download or clone this repository  
