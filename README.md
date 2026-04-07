@@ -40,7 +40,7 @@ Dashboard <a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main
 - Data Visualization  
 ---
 ## 📂 Dataset used
-
+<a href="https://github.com/Pronobcb/HR-Attrition-Dashboard-Excel/blob/main/HR%20Attrition%20Dashboard.xlsx">Dataset View </a>
 - Age  
 - Gender  
 - Education  
